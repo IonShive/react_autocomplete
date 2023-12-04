@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,EAGC,iBAAkB,CAClB,cAAe,CAFjB,QAKI,yBAA0B","file":"main.0ba8131a.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\np {\n  margin-bottom: 5px;\n  cursor: pointer;\n\n  &:hover {\n    text-decoration: underline;\n  }\n}\n"]}
